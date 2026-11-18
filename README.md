@@ -1722,5 +1722,4 @@ arp -a        # IP to MAC mapping</div>
           </div>
 
           <div class="book-rect book-wide">
-            <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px">
-              <h4 style="margin:0">Multiple Choice Questions (15 Int
+            <div style="display:flex;flex-wra
